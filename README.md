@@ -33,5 +33,5 @@ This project analyzes cricket data to determine the **Best 11 player combination
 **📢 Let's Connect!**  
 Feel free to check out my work and share your thoughts. I'm always open to discussing cricket analytics and data-driven sports strategies!
 
-🔗 **LinkedIn**: [Your LinkedIn Profile]  
-📧 **Email**: [Your Email]
+If you're passionate about data analytics, feel free to connect and collaborate! 🚀  
+[📧 Email](mailto:sandeepsajjanapu6@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/sandeep-sajjanapu) | [🐙 GitHub](https://github.com/sandeepsajjanapu)
